@@ -22,7 +22,7 @@ The bootcamp emphasizes a **holistic learning experience**, focusing on the prac
 
 This repository is organized to clearly manage weekly projects, datasets, scripts, and Power BI files.
 
-```markdown
+
 # 3-Month Data Analysis Bootcamp
 
 ---
